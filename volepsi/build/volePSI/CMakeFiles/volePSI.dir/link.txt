@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvolePSI.a CMakeFiles/volePSI.dir/RsOprf.cpp.o CMakeFiles/volePSI.dir/RsPsi.cpp.o CMakeFiles/volePSI.dir/SimpleIndex.cpp.o CMakeFiles/volePSI.dir/fileBased.cpp.o CMakeFiles/volePSI.dir/GMW/Circuit.cpp.o CMakeFiles/volePSI.dir/GMW/Gmw.cpp.o CMakeFiles/volePSI.dir/GMW/SilentTripleGen.cpp.o CMakeFiles/volePSI.dir/RsCpsi.cpp.o CMakeFiles/volePSI.dir/RsOpprf.cpp.o
+/usr/bin/ranlib libvolePSI.a

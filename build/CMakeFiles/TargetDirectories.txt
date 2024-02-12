@@ -1,0 +1,3 @@
+/home/malanbo/Desktop/MPSU/build/CMakeFiles/main.dir
+/home/malanbo/Desktop/MPSU/build/CMakeFiles/edit_cache.dir
+/home/malanbo/Desktop/MPSU/build/CMakeFiles/rebuild_cache.dir
